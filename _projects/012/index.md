@@ -11,8 +11,8 @@ main-image: /project3.jpg
 
 ## Project Building Data
 
-| Name | BETA Warehouse |
-| Function | Warehouse |
+| Name | Hotel Kampi Gandaria |
+| Function | Hospitality |
 | Location | Jl. Sultan Iskandar Muda No. 31, Kebayoran Lama Utara, Kebayoran Lama, Jakarta Selatan |
 | Year | 2024 - ongoing |
 | Owner | Hotel Janto Gandaria |
