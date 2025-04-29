@@ -26,11 +26,11 @@ main-image: /project3.jpg
 
 ## Gallery
 <br>
-{% include image-gallery.html images="part1.jpg" %}
+{% include image-gallery.html images="part1.jpg" max-height="none" %}
 <br>
-{% include image-gallery.html images="part2.jpg" %}
+{% include image-gallery.html images="part2.jpg" max-height="none" %}
 <br>
-{% include image-gallery.html images="part3.jpg" %}
+{% include image-gallery.html images="part3.jpg" max-height="none" %}
 
 > I took the lead on my first project, which was originally meant for an engineer with over 15 years of experience. But I stepped up and took the initiative.
 
