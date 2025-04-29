@@ -1,7 +1,7 @@
 ---
 layout: post
-title: RS. Pantai Indah Kapuk Extension
-description:  Pantai Indah Kapuk Extension Hospital is a dedicated Women and Children’s Center, featuring six floors and one basement with a total floor area of 15,754 square meters. Designed to deliver specialized care, the facility is equipped with two 360 RT chillers to support efficient cooling throughout. Each ward room includes a Variable Air Volume (VAV) system to ensure comfort and energy efficiency. This modern hospital reflects a strong commitment to high-quality, sustainable healthcare tailored for women and children in Jakarta.
+title: Citra Towers Kemayoran - South Tower
+description:  Citra Towers Kemayoran – South Tower is a modern 27-story office building with 3 basements designed with sustainability and energy efficiency in mind. The building is equipped with a Variable Refrigerant Flow (VRF) air conditioning system, allowing for precise temperature control and energy savings. Its thermal zones are divided into east and west sections, optimizing cooling efficiency based on sun exposure. The façade features low U-value glass with low shading coefficients, reducing solar heat gain and enhancing indoor comfort. With a gross floor area of 44.238 m², Citra Towers stands as a prime example of eco-friendly office architecture in Jakarta's Kemayoran district.
 skills: 
   - Cooling Load Calculation
   - HVAC Equipment Sizing
@@ -13,19 +13,17 @@ main-image: /project3.jpg
 
 ## Project Building Data
 
-| Name | RS. Pantai Indah Kapuk Extension |
-| Function | Hospital |
-| Location | Jl. Pantai Indah Utara No.3, Kapuk Muara, Penjaringan, Jakarta Utara |
-| Year | 2021 - ongoing |
-| Owner | PT. Mandaramedika Utama |
-| Architects | PT. Jasa Ferrie Pratama |
-| Structures | PT. Gistama Intisemesta |
+| Name | Citra Towers Kemayoran - South Tower |
+| Function | Office |
+| Location | Jl. Benyamin Sueb Kav. A6, Kebon Kosong, Kemayoran, Jakarta Pusat |
+| Year | 2023 - ongoing |
+| Owner | PT. Pembina Sukses Utama |
+| Architects | PT. Architecture Design Laboratory Indonesia |
+| Structures | PT. Wiratman |
 | M&E | PT. Sigmatech Tatakarsa |
-| Gross Floor Area | 15.754 square meter |
-| Total Floors | 6 Floors and 1 Basement |
-| Status Project | For Construction |
+| Gross Floor Area | 44.238 square meter |
+| Total Floors | 27 Floors and 3 Basement |
+| Status Project | Tender |
 
-
-> This is my second project, and it presents significant challenges. Although the gross floor area is smaller than that of my first project, the HVAC design for the hospital is quite complex.
 
 

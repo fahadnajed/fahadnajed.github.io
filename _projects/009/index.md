@@ -1,7 +1,7 @@
 ---
 layout: post
-title: RS. Pantai Indah Kapuk Extension
-description:  Pantai Indah Kapuk Extension Hospital is a dedicated Women and Children’s Center, featuring six floors and one basement with a total floor area of 15,754 square meters. Designed to deliver specialized care, the facility is equipped with two 360 RT chillers to support efficient cooling throughout. Each ward room includes a Variable Air Volume (VAV) system to ensure comfort and energy efficiency. This modern hospital reflects a strong commitment to high-quality, sustainable healthcare tailored for women and children in Jakarta.
+title: Rumah Sakit St. Carolus Summarecon Serpong
+description:  PT. Bhakti Karya Vita, the management of St. Carolus Hospital Summarecon Serpong, is set to enhance healthcare services by constructing new facilities and renovating current ones. Originally founded as a maternal and child hospital in 2011, St. Carolus Hospital transitioned to a general hospital in 2015 and has been continuously evolving to better serve the residents of Pagedangan, Tangerang Regency, Banten.
 skills: 
   - Cooling Load Calculation
   - HVAC Equipment Sizing
@@ -13,19 +13,17 @@ main-image: /project3.jpg
 
 ## Project Building Data
 
-| Name | RS. Pantai Indah Kapuk Extension |
+| Name | Rumah Sakit St. Carolus Summarecon Serpong |
 | Function | Hospital |
-| Location | Jl. Pantai Indah Utara No.3, Kapuk Muara, Penjaringan, Jakarta Utara |
-| Year | 2021 - ongoing |
-| Owner | PT. Mandaramedika Utama |
-| Architects | PT. Jasa Ferrie Pratama |
-| Structures | PT. Gistama Intisemesta |
+| Location | Jl. Gading Golf Boulevard Kavling 08, Cihuni, Pagedangan, Kab. Tangerang, Banten |
+| Year | 2024 - ongoing |
+| Owner | PT. Bhakti Karya Vita |
+| Architects | PT. Tetra Desaindo |
+| Structures | Fernandus & Associates Consulting Engineers |
 | M&E | PT. Sigmatech Tatakarsa |
-| Gross Floor Area | 15.754 square meter |
-| Total Floors | 6 Floors and 1 Basement |
-| Status Project | For Construction |
-
-
-> This is my second project, and it presents significant challenges. Although the gross floor area is smaller than that of my first project, the HVAC design for the hospital is quite complex.
+| Gross Floor Area | 23.908 square meter |
+| Total Floors | 7 Floors and 1 Basement |
+| Total Bed | 131 Bed 
+| Status Project | Design Development |
 
 

@@ -1,31 +1,30 @@
 ---
 layout: post
-title: RS. Pantai Indah Kapuk Extension
-description:  Pantai Indah Kapuk Extension Hospital is a dedicated Women and Children’s Center, featuring six floors and one basement with a total floor area of 15,754 square meters. Designed to deliver specialized care, the facility is equipped with two 360 RT chillers to support efficient cooling throughout. Each ward room includes a Variable Air Volume (VAV) system to ensure comfort and energy efficiency. This modern hospital reflects a strong commitment to high-quality, sustainable healthcare tailored for women and children in Jakarta.
+title: Puri Indah Hotel
+description:  Puri Indah Hotel is a four-star hotel featuring a range of top-tier facilities including a ballroom, swimming pool, meeting rooms, a restaurant, and more. The hotel boasts 22 floors and 2 basements, offering 282 rooms. It is designed with three chillers with a total capacity of 540 RT and utilizes a DOAS (Dedicated Outdoor Air System) to pre-treat fresh air for optimal indoor air quality. It also use heat exchanger to transfer heat from toilet exhaust and transfer it to DOAS. With a total gross floor area of 24,986 square meters, Puri Indah Hotel is designed to provide a modern and comfortable experience for both business and leisure travelers.
 skills: 
   - Cooling Load Calculation
   - HVAC Equipment Sizing
-  - Site Visit
-  - HVAC Measurement
 
 main-image: /project3.jpg
 ---
 
 ## Project Building Data
 
-| Name | RS. Pantai Indah Kapuk Extension |
-| Function | Hospital |
-| Location | Jl. Pantai Indah Utara No.3, Kapuk Muara, Penjaringan, Jakarta Utara |
-| Year | 2021 - ongoing |
-| Owner | PT. Mandaramedika Utama |
+| Name | Puri Indah Hotel |
+| Function | Hospitality |
+| Location | Jl. Puri Agung, Puri Indah, Kembangan, Jakarta Barat |
+| Year | 2023 - ongoing |
+| Owner | PT. Antilope Madju Puri Indah |
+| Hotel Operator | International Holiday Inn Group (IHG) |
 | Architects | PT. Jasa Ferrie Pratama |
 | Structures | PT. Gistama Intisemesta |
 | M&E | PT. Sigmatech Tatakarsa |
-| Gross Floor Area | 15.754 square meter |
-| Total Floors | 6 Floors and 1 Basement |
-| Status Project | For Construction |
+| Gross Floor Area | 24.986 square meter |
+| Total Floors | 22 Floors and 2 Basement |
+| Total Units | 282 units |
+| Status Project | For Tender |
 
 
-> This is my second project, and it presents significant challenges. Although the gross floor area is smaller than that of my first project, the HVAC design for the hospital is quite complex.
 
 
