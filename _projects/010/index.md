@@ -1,27 +1,29 @@
 ---
 layout: post
-title: Gereja Sidang Jemaat Kristus Hall 3
-description:  The Gereja Sidang Jemaat Kristus Hall 3, located at Jl. Gunung Sahari IV Number 6, Central Jakarta, is undergoing an expansion to enhance its worship facilities. The new building will feature an auditorium on the 7th and 8th floors, supported by additional functional spaces and a parking area below. The auditorium floors will be exclusively cooled by three air-cooled chillers with a total capacity of 200 RT, while the remaining floors will utilize a VRF (Variable Refrigerant Flow) system for efficient climate control across different zones.
+title: Rumah Sakit St. Carolus Summarecon Serpong
+description:  PT. Bhakti Karya Vita, the management of St. Carolus Hospital Summarecon Serpong, is set to enhance healthcare services by constructing new facilities and renovating current ones. Originally founded as a maternal and child hospital in 2011, St. Carolus Hospital transitioned to a general hospital in 2015 and has been continuously evolving to better serve the residents of Pagedangan, Tangerang Regency, Banten.
 skills: 
   - Cooling Load Calculation
   - HVAC Equipment Sizing
+  - Site Visit
+  - HVAC Measurement
 
 main-image: /project3.jpg
 ---
 
 ## Project Building Data
 
-| Name | Gereja Sidang Jemaat Kristus Hall 3 |
-| Function | Place of Religious Worships |
-| Location | Jl. Gunung Sahari IV No. 6, Jakarta Pusat |
+| Name | Rumah Sakit St. Carolus Summarecon Serpong |
+| Function | Hospital |
+| Location | Jl. Gading Golf Boulevard Kavling 08, Cihuni, Pagedangan, Kab. Tangerang, Banten |
 | Year | 2024 - ongoing |
-| Owner | Gereja Sidang Jemaat Kristus |
-| Architects | PT. WDS Konsultasi Internasional |
-| Structures | Keitra Engineering Consultants |
+| Owner | PT. Bhakti Karya Vita |
+| Architects | PT. Tetra Desaindo |
+| Structures | Fernandus & Associates Consulting Engineers |
 | M&E | PT. Sigmatech Tatakarsa |
-| Gross Floor Area | 20.468 square meter |
-| Total Floors | 10 Floors |
+| Gross Floor Area | 23.908 square meter |
+| Total Floors | 7 Floors and 1 Basement |
+| Total Bed | 131 Bed 
 | Status Project | Design Development |
-
 
 

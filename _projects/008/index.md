@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rumah Sakit Metro Hospitals Bondowoso
-description:  Rumah Sakit Metro Hospitals Bondowoso is currently on hold.
+title: Rumah Sakit Metro Hospitals Majalaya
+description:  Rumah Sakit Metro Hospitals Majalaya is currently on hold.
 skills: 
   - Cooling Load Calculation
   - HVAC Equipment Sizing
@@ -11,9 +11,9 @@ main-image: /project3.jpg
 
 ## Project Building Data
 
-| Name | RS. Pantai Indah Kapuk Extension |
+| Name | Rumah Sakit Metro Hospitals Majalaya |
 | Function | Hospital |
-| Location | Jl. Ahmad Yani RT.05/RW.02, Nangkaan, Kec. Bondowoso, Kabupaten Bondowoso, Jawa Timur |
+| Location | Jl. Raya Laswi, Majalaya, Kab. Bandung, Jawa Barat |
 | Year | 2024 - ongoing |
 | Owner | Metro Hospitals Group |
 | Architects | PT. Nusa Indah Indonesia |

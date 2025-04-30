@@ -1,29 +1,46 @@
 ---
 layout: post
-title: Citra Towers Kemayoran - South Tower
-description:  Citra Towers Kemayoran – South Tower is a modern 27-story office building with 3 basements designed with sustainability and energy efficiency in mind. The building is equipped with a Variable Refrigerant Flow (VRF) air conditioning system, allowing for precise temperature control and energy savings. Its thermal zones are divided into east and west sections, optimizing cooling efficiency based on sun exposure. The façade features low U-value glass with low shading coefficients, reducing solar heat gain and enhancing indoor comfort. With a gross floor area of 44.238 m², Citra Towers stands as a prime example of eco-friendly office architecture in Jakarta's Kemayoran district.
+title: Istana Wakil Presiden, Sarana & Prasarana IKN
+description:  Ibu Kota Nusantara (IKN), Indonesia’s new capital city, is being developed as a smart, sustainable, and climate-resilient city that prioritizes energy efficiency and environmental responsibility. As part of this vision, the Vice Presidential Palace complex within IKN adopts a hybrid cooling system to meet its diverse cooling needs while minimizing energy consumption and carbon emissions. This system combines mechanical and passive cooling methods, allowing it to adapt to varying thermal loads across different building zones, and is supported by a centralized Water Cooled Chiller System and intelligent control units for optimal performance. By integrating advanced technology with climate-responsive design, the hybrid cooling approach supports IKN’s broader goals of creating high-performance infrastructure that is both energy-conscious and environmentally sustainable.
 skills: 
   - Cooling Load Calculation
   - HVAC Equipment Sizing
-  - Site Visit
-  - HVAC Measurement
 
 main-image: /project3.jpg
 ---
 
 ## Project Building Data
 
-| Name | Citra Towers Kemayoran - South Tower |
-| Function | Office |
-| Location | Jl. Benyamin Sueb Kav. A6, Kebon Kosong, Kemayoran, Jakarta Pusat |
+| Name | Istana Wakil Presiden, Sarana & Prasarana IKN |
+| Function | Government |
+| Location | Ibu Kota Nusantara |
 | Year | 2023 - ongoing |
-| Owner | PT. Pembina Sukses Utama |
-| Architects | PT. Architecture Design Laboratory Indonesia |
-| Structures | PT. Wiratman |
+| Owner | Government |
+| Architects | SHAU |
+| Landscape Architects | SIURA Studio |
+| Structures | PT. Davysukamta Konsultan |
 | M&E | PT. Sigmatech Tatakarsa |
-| Gross Floor Area | 44.238 square meter |
-| Total Floors | 27 Floors and 3 Basement |
-| Status Project | Tender |
+| Energy Consultant | Transsolar KlimaEngineering |
+| Gross Floor Area | 17.185 square meter |
+| Total Building | 17 buildings |
+| Status Project | Basic Design |
+
+## Gallery
+<br>
+{% include image-gallery.html images="gambar.png" %}
+<br>
+{% include image-gallery.html images="gambar_1.png" %}
+<br>
+{% include image-gallery.html images="gambar_2.png" %}
+<br>
+{% include image-gallery.html images="gambar_3.png" %}
+<br>
+{% include image-gallery.html images="gambar_4.png" %}
+<br>
+{% include image-gallery.html images="diagram.png" %}
+
+> This project is merely basic design. The hybrid cooling system proposed by Transsolar KlimaEngineering which we adapt it to basic design.
+
 
 
 

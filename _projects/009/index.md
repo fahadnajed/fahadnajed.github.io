@@ -1,29 +1,27 @@
 ---
 layout: post
-title: Rumah Sakit St. Carolus Summarecon Serpong
-description:  PT. Bhakti Karya Vita, the management of St. Carolus Hospital Summarecon Serpong, is set to enhance healthcare services by constructing new facilities and renovating current ones. Originally founded as a maternal and child hospital in 2011, St. Carolus Hospital transitioned to a general hospital in 2015 and has been continuously evolving to better serve the residents of Pagedangan, Tangerang Regency, Banten.
+title: Rumah Sakit Metro Hospitals Bondowoso
+description:  Rumah Sakit Metro Hospitals Bondowoso is currently on hold.
 skills: 
   - Cooling Load Calculation
   - HVAC Equipment Sizing
-  - Site Visit
-  - HVAC Measurement
 
 main-image: /project3.jpg
 ---
 
 ## Project Building Data
 
-| Name | Rumah Sakit St. Carolus Summarecon Serpong |
+| Name | RS. Pantai Indah Kapuk Extension |
 | Function | Hospital |
-| Location | Jl. Gading Golf Boulevard Kavling 08, Cihuni, Pagedangan, Kab. Tangerang, Banten |
+| Location | Jl. Ahmad Yani RT.05/RW.02, Nangkaan, Kec. Bondowoso, Kabupaten Bondowoso, Jawa Timur |
 | Year | 2024 - ongoing |
-| Owner | PT. Bhakti Karya Vita |
-| Architects | PT. Tetra Desaindo |
-| Structures | Fernandus & Associates Consulting Engineers |
+| Owner | Metro Hospitals Group |
+| Architects | PT. Nusa Indah Indonesia |
+| Structures | PT. Gistama Intisemesta |
 | M&E | PT. Sigmatech Tatakarsa |
-| Gross Floor Area | 23.908 square meter |
-| Total Floors | 7 Floors and 1 Basement |
-| Total Bed | 131 Bed 
-| Status Project | Design Development |
+| Gross Floor Area | - |
+| Total Floors | - |
+| Status Project | Concept Development |
+
 
 

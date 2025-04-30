@@ -17,8 +17,8 @@ main-image: /project3.jpg
 | Year | 2023 - ongoing |
 | Owner | PT. Antilope Madju Puri Indah |
 | Hotel Operator | International Holiday Inn Group (IHG) |
-| Architects | PT. Jasa Ferrie Pratama |
-| Structures | PT. Gistama Intisemesta |
+| Architects | PTI Architects |
+| Structures | PT. Davysukamta Konsultan |
 | M&E | PT. Sigmatech Tatakarsa |
 | Gross Floor Area | 24.986 square meter |
 | Total Floors | 22 Floors and 2 Basement |
